@@ -1,0 +1,102 @@
+[
+  {
+    "Employee": "Alice",
+    "Time Off Days": 2
+  },
+  {
+    "Employee": "Bob",
+    "Time Off Days": 2
+  },
+  {
+    "Employee": "Charlie",
+    "Time Off Days": 3
+  },
+  {
+    "Employee": "David",
+    "Time Off Days": 9
+  },
+  {
+    "Employee": "Eva",
+    "Time Off Days": 5
+  },
+  {
+    "Employee": "Frank",
+    "Time Off Days": 8
+  },
+  {
+    "Employee": "Grace",
+    "Time Off Days": 8
+  },
+  {
+    "Employee": "Hannah",
+    "Time Off Days": 6
+  },
+  {
+    "Employee": "Isaac",
+    "Time Off Days": 10
+  },
+  {
+    "Employee": "Jack",
+    "Time Off Days": 8
+  },
+  {
+    "Employee": "Karen",
+    "Time Off Days": 8
+  },
+  {
+    "Employee": "Liam",
+    "Time Off Days": 7
+  },
+  {
+    "Employee": "Mia",
+    "Time Off Days": 7
+  },
+  {
+    "Employee": "Nathan",
+    "Time Off Days": 6
+  },
+  {
+    "Employee": "Olivia",
+    "Time Off Days": 1
+  },
+  {
+    "Employee": "Paul",
+    "Time Off Days": 8
+  },
+  {
+    "Employee": "Quinn",
+    "Time Off Days": 9
+  },
+  {
+    "Employee": "Rachel",
+    "Time Off Days": 8
+  },
+  {
+    "Employee": "Sam",
+    "Time Off Days": 5
+  },
+  {
+    "Employee": "Tina",
+    "Time Off Days": 10
+  },
+  {
+    "Employee": "Ulysses",
+    "Time Off Days": 8
+  },
+  {
+    "Employee": "Victoria",
+    "Time Off Days": 8
+  },
+  {
+    "Employee": "William",
+    "Time Off Days": 4
+  },
+  {
+    "Employee": "Xander",
+    "Time Off Days": 1
+  },
+  {
+    "Employee": "Yara",
+    "Time Off Days": 4
+  }
+]
